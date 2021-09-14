@@ -13,7 +13,7 @@ const array = [function (a, b) {return a + b }, fun1, fun2 ]
 console.log(array[0](2, 3))
 
 
-// armazenar em um atribudo de objeto
+// armazenar em  atributos de objetos
 
 const obj = {}
 obj.falar = function () { return "eiii"}
